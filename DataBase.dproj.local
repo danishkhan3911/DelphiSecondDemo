@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024-04-13 19:59:24.581,=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024-04-13 20:01:16.600,C:\Users\SONY\Desktop\Delphi\Sql\formDataBaseConnection.dfm=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024-04-13 20:01:16.600,C:\Users\SONY\Desktop\Delphi\Sql\formDataBaseConnection.pas=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024-04-13 20:01:31.801,C:\Users\SONY\Desktop\Delphi\Sql\DataBase.dproj=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024-04-13 20:13:18.705,=C:\Users\SONY\Desktop\Delphi\Sql\Unit1.pas</Transaction>
+    <Transaction>2024-04-13 20:13:38.608,C:\Users\SONY\Desktop\Delphi\Sql\dmConnection.dfm=C:\Users\SONY\Desktop\Delphi\Sql\Unit1.dfm</Transaction>
+    <Transaction>2024-04-13 20:13:38.608,C:\Users\SONY\Desktop\Delphi\Sql\dmConnection.pas=C:\Users\SONY\Desktop\Delphi\Sql\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
